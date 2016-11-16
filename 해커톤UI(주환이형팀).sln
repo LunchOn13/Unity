@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "해커톤UI(주환이형팀).CSharp", "해커톤UI(주환이형팀).CSharp.csproj", "{C7D73403-0173-1933-EB24-456CF0EE8C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "해커톤UI(주환이형팀).CSharp.Editor", "해커톤UI(주환이형팀).CSharp.Editor.csproj", "{CA3D6E92-86DF-C49E-AD79-FE0AE96848AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D73403-0173-1933-EB24-456CF0EE8C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D73403-0173-1933-EB24-456CF0EE8C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D73403-0173-1933-EB24-456CF0EE8C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D73403-0173-1933-EB24-456CF0EE8C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3D6E92-86DF-C49E-AD79-FE0AE96848AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3D6E92-86DF-C49E-AD79-FE0AE96848AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3D6E92-86DF-C49E-AD79-FE0AE96848AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3D6E92-86DF-C49E-AD79-FE0AE96848AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
